@@ -1,0 +1,22 @@
+.green{
+   background-color: #37B44C;
+   ;
+}
+
+.green2{
+   color: #37B44C;
+}
+.card{
+   border-radius:4%;
+}
+.h1{
+   background-color: #37B44C;
+}
+.hh {
+   border-color: #37B44C;
+   color: #37B44C;
+}
+.hh:hover{
+   background: #37B44C;
+   color:white
+}
